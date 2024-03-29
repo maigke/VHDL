@@ -1,6 +1,9 @@
 ### AL ###
 #Ignorar todo
-*
+*.bak
+*.json
+*.o
+*.json
 
 # Pero no ignorar los archivos .vhd
 !*.vhd
